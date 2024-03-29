@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ErlanZhumagulov/react-test/static/css/main.f855e6bc.css",
-    "main.js": "/ErlanZhumagulov/react-test/static/js/main.8ebcdd16.js",
-    "static/js/453.ad6eb26e.chunk.js": "/ErlanZhumagulov/react-test/static/js/453.ad6eb26e.chunk.js",
-    "static/media/logo.svg": "/ErlanZhumagulov/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ErlanZhumagulov/react-test/index.html",
-    "main.f855e6bc.css.map": "/ErlanZhumagulov/react-test/static/css/main.f855e6bc.css.map",
-    "main.8ebcdd16.js.map": "/ErlanZhumagulov/react-test/static/js/main.8ebcdd16.js.map",
-    "453.ad6eb26e.chunk.js.map": "/ErlanZhumagulov/react-test/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/react-test/static/css/main.f855e6bc.css",
+    "main.js": "/react-test/static/js/main.0213b2d8.js",
+    "static/js/453.ad6eb26e.chunk.js": "/react-test/static/js/453.ad6eb26e.chunk.js",
+    "static/media/logo.svg": "/react-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-test/index.html",
+    "main.f855e6bc.css.map": "/react-test/static/css/main.f855e6bc.css.map",
+    "main.0213b2d8.js.map": "/react-test/static/js/main.0213b2d8.js.map",
+    "453.ad6eb26e.chunk.js.map": "/react-test/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.8ebcdd16.js"
+    "static/js/main.0213b2d8.js"
   ]
 }
